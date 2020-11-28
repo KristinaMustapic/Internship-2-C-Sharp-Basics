@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "dr2_dump/1.0.0": {
+        "runtime": {
+          "dr2_dump.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dr2_dump/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

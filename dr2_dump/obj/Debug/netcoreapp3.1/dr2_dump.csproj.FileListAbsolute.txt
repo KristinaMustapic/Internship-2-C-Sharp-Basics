@@ -1,0 +1,13 @@
+C:\Users\Korisnik\source\repos\dr2_dump\dr2_dump\bin\Debug\netcoreapp3.1\dr2_dump.exe
+C:\Users\Korisnik\source\repos\dr2_dump\dr2_dump\bin\Debug\netcoreapp3.1\dr2_dump.deps.json
+C:\Users\Korisnik\source\repos\dr2_dump\dr2_dump\bin\Debug\netcoreapp3.1\dr2_dump.runtimeconfig.json
+C:\Users\Korisnik\source\repos\dr2_dump\dr2_dump\bin\Debug\netcoreapp3.1\dr2_dump.runtimeconfig.dev.json
+C:\Users\Korisnik\source\repos\dr2_dump\dr2_dump\bin\Debug\netcoreapp3.1\dr2_dump.dll
+C:\Users\Korisnik\source\repos\dr2_dump\dr2_dump\bin\Debug\netcoreapp3.1\dr2_dump.pdb
+C:\Users\Korisnik\source\repos\dr2_dump\dr2_dump\obj\Debug\netcoreapp3.1\dr2_dump.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\dr2_dump\dr2_dump\obj\Debug\netcoreapp3.1\dr2_dump.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\dr2_dump\dr2_dump\obj\Debug\netcoreapp3.1\dr2_dump.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\dr2_dump\dr2_dump\obj\Debug\netcoreapp3.1\dr2_dump.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\dr2_dump\dr2_dump\obj\Debug\netcoreapp3.1\dr2_dump.dll
+C:\Users\Korisnik\source\repos\dr2_dump\dr2_dump\obj\Debug\netcoreapp3.1\dr2_dump.pdb
+C:\Users\Korisnik\source\repos\dr2_dump\dr2_dump\obj\Debug\netcoreapp3.1\dr2_dump.genruntimeconfig.cache
