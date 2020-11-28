@@ -11,13 +11,8 @@ namespace dr2_dump
             //TO FIX:
             
             //popraviti kad zavrsi s nekom radnjom/ unosom da se vrati na pocetni izbornik i nastavi dalje
-
-            /*
-             z provjeru ispisa
-
-             foreach(var song in playlist)
-                         Console.WriteLine(song.Key +" - "+ song.Value);
-             */
+            //povratak na pocetni -> preko funkcija
+          
           
 
             Menu();
@@ -133,9 +128,6 @@ namespace dr2_dump
                         if (ConfirmChoice())
                         {
                             playlist.Remove(posi);
-                            //
-                            foreach (var song in playlist)
-                                Console.WriteLine(song.Key + " - " + song.Value);
                         }
                         else
                         {
@@ -162,9 +154,6 @@ namespace dr2_dump
                             foreach (var song in playlist)
                                 if (song.Value == songName2)
                                     playlist.Remove(song.Key);
-                            //
-                            foreach (var song in playlist)
-                                Console.WriteLine(song.Key + " - " + song.Value);
                         }
                     }
                     else
@@ -180,9 +169,7 @@ namespace dr2_dump
                     {
                         playlist.Clear();
                     }
-                    //
-                    foreach (var song in playlist)
-                        Console.WriteLine(song.Key + " - " + song.Value);
+                
                     break;
 
 
@@ -197,10 +184,6 @@ namespace dr2_dump
                             Console.WriteLine($"Unesite novo ime pjesme na poziciji {posit}: ");
                             var newSongName = Console.ReadLine();
                             playlist[posit] = newSongName;
-
-                            //
-                            foreach (var song in playlist)
-                                Console.WriteLine(song.Key + " - " + song.Value);
 
                         }
                         else
@@ -243,8 +226,7 @@ namespace dr2_dump
                         }
                     }
                         
-                    foreach(var song in playlist)
-                        Console.WriteLine(song.Key +" "+song.Value);
+               
                     
                     break;
 
