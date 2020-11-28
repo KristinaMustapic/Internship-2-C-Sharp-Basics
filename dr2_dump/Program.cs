@@ -201,30 +201,7 @@ namespace dr2_dump
                     Console.WriteLine("Unesite redni broj (poziciju) na koju zelite prebaciti pjesmu: ");
                     var newPosition = int.Parse(Console.ReadLine());
 
-                    //
-                    var numberOfSongs = playlist.Count;
-                    string chosenSong = "";
-                    List<string> songsInList = new List<string>();
-
-                    foreach (var song in playlist)
-                        if (song.Key == oldPosition)
-                            chosenSong = song.Value;
-                        else
-                            songsInList.Add(song.Value);
-                    playlist.Clear();
-
-                    var j = 0;
-                    for(var i = 0; i<numberOfSongs; i++)
-                    {
-                        if (i == newPosition)
-                            playlist[i] = chosenSong;
-                           
-                        else
-                        {
-                            playlist[i] = songsInList[j];
-                            j++;
-                        }
-                    }
+                    //solve till end
                         
                
                     
